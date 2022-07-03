@@ -8,5 +8,12 @@
 profile_default/
 ipython_config.py
 
+# Remove CSVs and XLSXs
+*.csv
+*.xlsx
+
+# Remove Photo Directories
+*Photos/*
+
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
