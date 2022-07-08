@@ -13,7 +13,7 @@ ipython_config.py
 *.xlsx
 
 # Remove Photo Directories
-*Photos/*
+*Photos*/*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
